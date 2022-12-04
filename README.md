@@ -1,1 +1,1 @@
-# pensamento-computacional
+# trabalho de PENS.COMP
